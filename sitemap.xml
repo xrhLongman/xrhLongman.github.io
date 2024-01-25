@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xrhlongman.github.io/about/index.html</loc>
+    <loc>https://xrhlongman.github.io/2024/01/23/fds/</loc>
     
-    <lastmod>2024-01-24</lastmod>
+    <lastmod>2024-01-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://xrhlongman.github.io/2024/01/23/fds/</loc>
+    <loc>https://xrhlongman.github.io/about/index.html</loc>
     
     <lastmod>2024-01-24</lastmod>
     
@@ -67,7 +67,7 @@
 
   <url>
     <loc>https://xrhlongman.github.io/</loc>
-    <lastmod>2024-01-24</lastmod>
+    <lastmod>2024-01-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,21 +75,14 @@
   
   <url>
     <loc>https://xrhlongman.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
-    <lastmod>2024-01-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xrhlongman.github.io/tags/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2024-01-24</lastmod>
+    <lastmod>2024-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xrhlongman.github.io/tags/23-24-fall/</loc>
-    <lastmod>2024-01-24</lastmod>
+    <lastmod>2024-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -98,7 +91,7 @@
   
   <url>
     <loc>https://xrhlongman.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2024-01-24</lastmod>
+    <lastmod>2024-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

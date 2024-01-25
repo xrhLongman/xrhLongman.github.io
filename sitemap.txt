@@ -1,5 +1,5 @@
-https://xrhlongman.github.io/about/index.html
 https://xrhlongman.github.io/2024/01/23/fds/
+https://xrhlongman.github.io/about/index.html
 https://xrhlongman.github.io/archives/index.html
 https://xrhlongman.github.io/categories/index.html
 https://xrhlongman.github.io/tags/index.html
@@ -7,6 +7,5 @@ https://xrhlongman.github.io/link/index.html
 https://xrhlongman.github.io/comment/index.html
 https://xrhlongman.github.io/
 https://xrhlongman.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/
-https://xrhlongman.github.io/tags/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90/
 https://xrhlongman.github.io/tags/23-24-fall/
 https://xrhlongman.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/
